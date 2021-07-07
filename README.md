@@ -14,7 +14,7 @@ Here are some analysis and projects I did that helped me to make better decision
 
 
 
-## 2. Finding the average room prices to live in Milan
+## 2. Finding a place to live in Milan
 
 **Problem/Motivation:** I needed to find a place to live in Milan. One of the options was to book a room directly from an agency. I wanted to understand if the price of the rooms I was picking were above or below the average and to find addresses with more than one room available.
 
